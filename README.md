@@ -5,7 +5,7 @@
 
 Project Summary: 
 
-A Dice Game Called "HOG". This was a class project apart of CIS61, Object Oriented Programming.
+The Dice Game Called "HOG". This was a class project apart of CIS61, Object Oriented Programming.
 We were provided with a GUI as the framework of our project, but that game's inner mechanics were left for us to code.
 Mechanics include dice rolls, point/player tracking, special rules, and developing strategies.
 
