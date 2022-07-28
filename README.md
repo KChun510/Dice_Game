@@ -9,7 +9,7 @@ The Dice Game Called "HOG". This was a class project apart of CIS61, Object Orie
 We were provided with a GUI as the framework of our project, but that game's inner mechanics were left for us to code.
 Mechanics include dice rolls, point/player tracking, special rules, and developing strategies.
 
-A Critical part of this project was developing a strategy/ computer player to go against. Through evaluation of the games mechanics, 
+A critical part of this project was developing a strategy/ computer player to go against. Through evaluation of the games mechanics, 
 I developed a strategy that took the optimal move each turn. My final strategy had a win rate of 60%.
 
 
