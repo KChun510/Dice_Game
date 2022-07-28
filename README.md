@@ -14,7 +14,8 @@ I developed a strategy that took the optimal move each turn. My final strategy h
 
 
 Game Conditions:
-- Each player takes turns rolling dice.
+- Each player takes turns rolling 0-10 dice.
+- A Dice's side == points.
 - First player to reach 100 points wins.
 
 Rules:
