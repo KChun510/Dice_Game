@@ -18,9 +18,9 @@ Game Conditions:
 - First player to reach 100 points wins.
 
 Rules:
--Sow Sad: If a player rolls a dice and lands on 1, the entire roll gains only 1 point.
--Free Bacon: A Player can roll 0 dice, and receive the single highest digit of the opponent's score.
--Swine Swap: If an opponent's score is exactly double of yours, points swap.
+- Sow Sad: If a player rolls a dice and lands on 1, the entire roll gains only 1 point.
+- Free Bacon: A Player can roll 0 dice, and receive the single highest digit of the opponent's score.
+- Swine Swap: If an opponent's score is exactly double of yours, points swap.
 
 
 
