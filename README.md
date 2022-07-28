@@ -23,6 +23,9 @@ Rules:
 - Free Bacon: A Player can roll 0 dice, and receive the single highest digit of the opponent's score.
 - Swine Swap: If an opponent's score is exactly double of yours, points swap.
 
+How to play:
+- Launch the "hog_gui" file through the command line with "python3 hog_gui", or "python3 hog_gui -f" to play against my strategy.
+
 
 
 
